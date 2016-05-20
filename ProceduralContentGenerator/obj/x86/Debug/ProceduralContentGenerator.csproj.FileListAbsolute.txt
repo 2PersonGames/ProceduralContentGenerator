@@ -1,0 +1,10 @@
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\bin\x86\Debug\Content\Backgrounds\BG.xnb
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\bin\x86\Debug\Content\HouseAssets\blank.xnb
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\bin\x86\Debug\ProceduralContentGenerator.exe
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\bin\x86\Debug\ProceduralContentGenerator.pdb
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\obj\x86\Debug\ProceduralContentGenerator.exe
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\obj\x86\Debug\ProceduralContentGenerator.pdb
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\bin\x86\Debug\Content\HouseAssets\brick0.xnb
+X:\Sam\CGP\Spring Semester, Year One\Computing Environment\ProceduralContentGenerator\ProceduralContentGenerator\bin\x86\Debug\Content\references.txt

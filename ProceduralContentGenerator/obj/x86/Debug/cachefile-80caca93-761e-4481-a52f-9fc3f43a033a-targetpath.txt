@@ -1,0 +1,4 @@
+Content\Backgrounds\BG.xnb
+Content\HouseAssets\blank.xnb
+Content\HouseAssets\brick0.xnb
+Content\references.txt
